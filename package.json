@@ -1,0 +1,21 @@
+{
+  "name": "is-eu-member",
+  "version": "1.0.1",
+  "description": "Give me an ISO 3166-1 alpha-2 country code and I'll tell you if it's a member of the European Union.",
+  "main": "index.js",
+  "keywords": [
+    "country",
+    "gdpr"
+  ],
+  "author": "Tim \"timmyRS\" Speckhals",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmyrs/is-eu-member.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timmyrs/is-eu-member/issues"
+  },
+  "homepage": "https://github.com/timmyrs/is-eu-member#readme"
+}
