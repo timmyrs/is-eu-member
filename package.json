@@ -1,6 +1,6 @@
 {
   "name": "is-eu-member",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Give me an ISO 3166-1 alpha-2 country code and I'll tell you if it's a member of the European Union.",
   "main": "index.js",
   "types": "index.d.ts",
